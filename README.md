@@ -13,4 +13,3 @@ This repository contains the implementation of a language model using PyTorch to
 - **Model**: Transformer-based language model.
 - **Training**: Custom training loop with evaluation and loss calculation.
 - **Text Generation**: Ability to generate text based on the dataset used.
-- 
